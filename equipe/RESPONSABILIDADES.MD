@@ -1,4 +1,4 @@
-# 📌 Divisão de Tarefas — 8 Pessoas
+# 📌 Divisão de Tarefas — 9 Pessoas
 
 ---
 
