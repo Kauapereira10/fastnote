@@ -140,10 +140,8 @@ Cuida do trabalho acadêmico e revisão:
 - Criar README.md
 - Documentar código
 - Escrever relatório Word/PDF
-- Revisar tarefas e layout final
 
 **👉 Foco:**
 
 - Parte escrita do trabalho
 - Referências ABNT
-- Garantir que tudo esteja organizado e consistente
