@@ -47,15 +47,15 @@ Responsável pelas telas de tarefas:
 
 ---
 
-## 👨‍💻 José — Back-end (Autenticação)
+## 👨‍💻 José — Back-end (Autenticação) 
 
 Cuida do login e cadastro:
 
 - `controllers/AuthController.php`
 - `models/User.php`
-- `login.php`
-- `register.php`
-- `logout.php`
+- `login.php` - So verificacao
+- `register.php` - So verificacao
+- `logout.php` - So verificacao
 
 **👉 Foco:**
 - Login com validação
@@ -94,7 +94,7 @@ Responsável pelos arquivos que executam ações:
 
 ---
 
-## 👨‍💻 Carlos — Banco de Dados
+## 👨‍💻 Carlos — Banco de Dados 
 
 Cuida do SQL:
 
@@ -133,7 +133,7 @@ Cuida do deploy e integração:
 
 ---
 
-## 👨‍💻 Geovana — Documentação e Qualidade
+## 👨‍💻 Geovana — Documentação e Qualidade 
 
 Cuida do trabalho acadêmico e revisão:
 
