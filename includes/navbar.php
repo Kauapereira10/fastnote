@@ -1,0 +1,1 @@
+<header class="navbar"> <div class="logo"> <img src="../assets/img/logo.png" alt="Logo" > <h2> Fast<span>Note</span> </h2> </div> <?php if (isset($_SESSION['user_id'])): ?> <div class="nav-right"> <a href="dashboard.php"> Dashboard </a> <a href="create_task.php"> Nova Tarefa </a> <a href="../logout.php" class="logout-btn" > Logout </a> </div> <?php endif; ?> </header>
